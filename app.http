@@ -1,0 +1,12 @@
+http://localhost:3000/players
+
+###
+http://localhost:3000/players/1/matches
+
+####
+
+http://localhost:3000/matches/2/players
+
+###
+
+http://localhost:3000/players/2/playerScores
